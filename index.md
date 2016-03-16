@@ -1,6 +1,6 @@
-<!-- -&#45;&#45;-->
-<!--layout: home-->
-<!-- -&#45;&#45;-->
+---
+layout: home
+---
 
 <div class="index-content blog">
     <div class="section">
